@@ -181,7 +181,7 @@ a{
     text-align: center;
     color: #FFFFFF;
     padding-top: 43px;
-    padding-bottom: 60px;
+    margin-bottom: 60px;
 }
 .portfolio-worck{
     display: flex;
@@ -245,24 +245,4 @@ a{
 .social ul{
     display: flex;
     gap: 200px;
-}
-.fb{
-    width: 53px;
-    height: 52px;
-}
-.ig{
-    width: 45px;
-    height: 45px;
-}
-.tg{
-    width: 53px;
-    height: 52px;
-}
-.ml{
-    width: 57px;
-    height: 40px;
-}
-.wt{
-    width: 52px;
-    height: 52px;
 }
